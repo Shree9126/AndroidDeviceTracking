@@ -1,0 +1,237 @@
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.app.infideap.androiddevicetracking.DeviceInfoFragment">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/timezone"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_timezone" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+        <TableRow>
+
+            <TextView
+                android:text="@string/date"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_date" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/time"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_time" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/latitude"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_latitude" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/longitude"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_longitude" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+        <TableRow>
+
+            <TextView
+                android:text="@string/altitude"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_altitude" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+        <TableRow>
+
+            <TextView
+                android:text="@string/gpsspeed"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_gps_speed" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+        <TableRow>
+
+            <TextView
+                android:text="@string/accuracy"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_accuracy" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/address"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_address" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/network"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_network" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/signalstrength"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_signal_strength" />
+        </TableRow>
+
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/battery"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_battery" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/memory"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_memory" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+
+        <TableRow>
+
+            <TextView
+                android:text="@string/storage"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:text=":"
+                android:textColor="@color/colorAccent" />
+
+            <TextView android:id="@+id/textView_storage" />
+        </TableRow>
+        <android.support.v4.widget.Space android:layout_height="@dimen/activity_vertical_margin"/>
+    </TableLayout>
+
+</android.support.v4.widget.NestedScrollView>

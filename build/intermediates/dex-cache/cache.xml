@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_3f129848d42f2f03fb1b6e08c1a44bf26a75e4e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5ce8a8eb5f2f11537d1a29830d49e5972ae23671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8627b481a6b835bef25fa56249b0bc269143732b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/llttz-master/build/libs/llttz-master-0.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d6a342b82ff3881740e8f27738fda4ea61a6d3b">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/llttz-master-0.0.2_7a66abfadee10ba8e7e623b536f58fc77b65e0ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_4ff3deecee189d100a7bfb5f3477cfcc00d49cc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_d2badbc54517bda7ee885c02a9a6a180fa49a32a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_878c1f8eac0f2b791960258b6313e204907d723c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_9490d3d3d8490ddd2e78b22137e5cf51ab714f72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4e2bd5895c24a47f4c204a2670b40d6e5020305c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e26e0e5ef36748e4ad850319ed8fdce0d51c0a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_0feae05234f8ea59a8aa07a29dcf32db36493769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/AndroidDeviceTracking/devicetrack/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="782de0f82e675827fe22015308722414187fd3af">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/AndroidDeviceTracking-devicetrack-unspecified_19013816f11ff4f4ca96b32d9ac3a80d21cf97ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_71e164f45438e871646633a6af657a36ce990836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.jaredrummler/android-processes/1.0.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b660c423cc216ac12f860fd829ed9e97cb0c64d1">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.jaredrummler-android-processes-1.0.8_fac1f80ed3a81078673d3e202f59bee19d43781c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/eu.chainfire/libsuperuser/1.0.0.201608240809/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="054e8bd9935e1d1cdf411dad8eda6a950a21ee60">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/eu.chainfire-libsuperuser-1.0.0.201608240809_44fec91443ee4e29301ee8d95d86d48f81a6e8e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_0f80188884def36f8600b8736d40ccbd3f11748f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_9d0143c5f446a6b92ced0679a4491e8ab26fe76e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_04bc94fd0f677f6bb79f7b3de886a75bfaf3b828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_aea6e4902705e35f882f3ac52b678ad7db8be7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_093b99b53b02091683aff5c17a144234260136fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Shiburagi/Desktop/AndroidDeviceTracking/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_28934f4706beefebdb9ce883761c154896deeb97.jar" />
+    </item>
+
+</items>
